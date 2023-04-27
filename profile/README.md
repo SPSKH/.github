@@ -1,2 +1,1 @@
-# GitHub organizace pro střední průmyslovou školu v Kutné Hoře
-
+# GitHub organizace pro Střední průmyslovou školu v Kutné Hoře
