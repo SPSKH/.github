@@ -1,6 +1,6 @@
 ![GitHub HeroBanner](https://github.com/SPSKH/.github/blob/main/images/readme.png) 
 
-## Here, you can find amazing projects developed by student's from Secondary Technical School in Kutná Hora
+## Here, you can find amazing projects developed by students from Secondary Technical School in Kutná Hora
 
 * [Visit our website](https://spskh.cz)
 * [Visit our blog](https://blog.spskh.cz)
