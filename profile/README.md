@@ -7,4 +7,4 @@
 
 ---
 
-Secondary Technical School in Kutná Hora GitHub organization is supervised by Černoch Martin. For more information, contact him by e-mail [cernoch@voskh.cz](mailto:cernoch@voskh.cz)
+Secondary Technical School in Kutná Hora GitHub organization is supervised by Černoch Martin. For more information, contact him on his e-mail: [cernoch@voskh.cz](mailto:cernoch@voskh.cz).
